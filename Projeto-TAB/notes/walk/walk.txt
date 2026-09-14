@@ -1,0 +1,1 @@
+O bat ele vai ficar sempre para cima e para baixo, tipo y +=1 -> y -= 1, num espectro de até y = 5 ---> y = -5

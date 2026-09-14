@@ -1,0 +1,1 @@
+//draw_rectangle(longe_x + 15, longe_y + 15, longe_x, longe_y, false)

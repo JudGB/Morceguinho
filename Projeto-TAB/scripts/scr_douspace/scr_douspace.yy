@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_douspace",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_douspace",
+  "parent":{
+    "name":"status",
+    "path":"folders/scripts/status.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
