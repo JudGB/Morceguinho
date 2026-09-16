@@ -6,8 +6,8 @@ Um jogo onde você é nada mais nada menos que um morcego, você explora caverna
 ![GIF ou Imagem do Jogo](link-para-sua-imagem-ou-gif.gif)
 
 ## Sobre o Jogo
-Explique um pouco mais sobre as mecânicas principais, o estilo artístico ou os desafios que você enfrentou programando no GameMaker.
-Um projetos simples apenas para por em prática alguns conceitos de programação e game design, onde você constantemente está caindo e clica no **space**  para 
+
+Este é um projetos simples apenas para por em prática alguns conceitos de programação e game design, onde você constantemente está caindo e clica no **space**  para 
 não cair, anda nas 4 direções e duplo click para os dash's, como sou focado apenas na programação o jogo está bem feio o foco foi programação desde o inicio.
 O maior desafio sem dúvidas foi o código da geração procedural do game, onde ela precisa criar uma grid e a partir dela manipula-la
 
