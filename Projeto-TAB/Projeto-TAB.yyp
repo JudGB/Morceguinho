@@ -68,7 +68,6 @@
     {"$GMFolder":"","%Name":"[KIT]Options","folderPath":"folders/[KIT]Menus/[KIT]Menus01/[KIT]Options.yy","name":"[KIT]Options","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"[KIT]Play","folderPath":"folders/[KIT]Menus/[KIT]Menus01/[KIT]Play.yy","name":"[KIT]Play","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"[KIT]System","folderPath":"folders/[KIT]Menus/[KIT]System.yy","name":"[KIT]System","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"TileSet","folderPath":"folders/TileSet.yy","name":"TileSet","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"ideias","folderPath":"folders/ideias.yy","name":"ideias","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"background","folderPath":"folders/Objects/background.yy","name":"background","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -105,6 +104,7 @@
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Sprites/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"transitions","folderPath":"folders/Sprites/transitions.yy","name":"transitions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Text","folderPath":"folders/Text.yy","name":"Text","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"TileSet","folderPath":"folders/TileSet.yy","name":"TileSet","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[
     {"link":"io.gamemaker.gmparticlepresets-1.0.0","name":"io.gamemaker.gmparticlepresets-1.0.0","path":"io.gamemaker.gmparticlepresets-1.0.0.yyp",},

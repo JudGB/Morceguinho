@@ -21,12 +21,12 @@ var _yy = choose(1, 22, 45)
 //Quantas vezes vão tirar blocos por chunck
 var _passos = 250
 
-north = 1
-west  = 2
-east  = 4
-south = 8
+//north = 1
+//west  = 2
+//east  = 4
+//south = 8
 
-var tile_layer = layer_tilemap_get_id("TileAuto")
+//var tile_layer = layer_tilemap_get_id("TileAuto")
 
 for(var qg = 0; qg < quant_grid; qg++){
 	var _NGrid = ds_grid_create(x_grid, y_grid)
@@ -71,22 +71,22 @@ for(var qg = 0; qg < quant_grid; qg++){
 	
 }
 
-for (var xx = 0; xx < x_grid; xx++){
-	for (var yy = 0; yy < y_grid; yy++){
-		//Onde é 0 coloque parede
-		if grid[# xx,yy] == 0{
-			var norte = grid[# xx,yy - 1] == 0	
-			var sul   = grid[# xx,yy + 1] == 0	
-			var oeste = grid[# xx - 1,yy] == 0	
-			var leste = grid[# xx + 1,yy] == 0	
+//for (var xx = 0; xx < x_grid; xx++){
+//	for (var yy = 0; yy < y_grid; yy++){
+//		//Onde é 0 coloque parede
+//		if grid[# xx,yy] == 0{
+//			var norte = grid[# xx,yy - 1] == 0	
+//			var sul   = grid[# xx,yy + 1] == 0	
+//			var oeste = grid[# xx - 1,yy] == 0	
+//			var leste = grid[# xx + 1,yy] == 0	
 			
-			var tile_index = norte * north + oeste * west + leste * east + sul * south + 1;
+//			var tile_index = norte * north + oeste * west + leste * east + sul * south + 1;
 			
-			tilemap_set(tile_layer, tile_index, xx - 1, yy)
+//			tilemap_set(tile_layer, tile_index, xx - 1, yy)
 			
-		}
-	}
-}
+//		}
+//	}
+//}
 
 //Checando as linhas e colunas
 for (var xx = 0; xx < x_grid; xx++){
